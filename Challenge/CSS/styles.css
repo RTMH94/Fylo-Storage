@@ -1,0 +1,36 @@
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body{
+background-color: #0c122c;
+}
+.desktop{
+  margin-top: 400px;
+
+}
+.container{
+  background-color: #1d2c67;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  width: 150px;
+  border-radius: 10px 100px 10px 10px;
+  position: absolute;
+  top: 350px;
+  left:300px;
+
+}
+
+
+.icons img {
+  width: 30px;
+  height: 50px;
+  -o-object-fit: contain;
+     object-fit: contain;
+     margin-right: 10px;
+  padding: 20px;
+  background: #0c122c;
+  border-radius: 10px 10px 10px 10px;
+}
